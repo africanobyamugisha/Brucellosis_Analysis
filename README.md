@@ -58,4 +58,4 @@ Our toolbox is packed with these incredible R packages:
 
 The analysis offers a deep dive into the prevalence of Brucellosis in different livestock species, with a special focus on Bovine 🐄, Caprine 🐐, and Ovine 🐑 populations. We explore prevalence by district, identifying areas with higher or lower rates 🏘️. Our correlation analysis reveals hidden relationships between species' prevalence rates. Interactive visuals and beautifully formatted tables enhance the presentation of our analysis results.
 
-This repository is your gateway to transparent and reproducible Brucellosis prevalence analysis. Whether you're a researcher, policymaker, or simply curious, this resource will provide you with a visually appealing and insightful exploration of this significant issue. 📊🐄🐐🐑
+Whether you're a researcher, policymaker, or simply curious, free free to contact me. 📊🐄🐐🐑

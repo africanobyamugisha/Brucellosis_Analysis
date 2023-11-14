@@ -2,12 +2,12 @@
 
 Welcome to the Brucellosis Prevalence Analysis repository! This analysis provides valuable insights into the prevalence of Brucellosis in different livestock species, including Bovine 🐄, Caprine 🐐, and Ovine 🐑, in various districts 🏘️. We utilize a set of powerful data analysis tools and packages to explore the distribution of this disease, uncover variations among species and districts, and unveil correlations between their prevalence.
 
-[VIEW ANALYSIS HERE](https://africanobyamugisha.github.io/Brucellosis_Analysis/)
-![image](https://github.com/africanobyamugisha/Brucellosis_Analysis/assets/86195656/c9d3d6ff-8a3f-4a87-b857-e239118b4756)
+- [VIEW ANALYSIS HERE](https://africanobyamugisha.github.io/Brucellosis_Analysis/)
+<img src="https://github.com/africanobyamugisha/Brucellosis_Analysis/assets/86195656/c9d3d6ff-8a3f-4a87-b857-e239118b4756" width=50% height=50%>
 
 ## Author 📝
 
-**Author**: [Africano Byamugisha]
+**Author**: Africano Byamugisha
 
 **Contact**: 📧 [byamugishafricano@gmail.com](mailto:byamugishafricano@gmail.com)
 

@@ -1,6 +1,6 @@
 # Brucellosis Prevalence Analysis 🐄🐐🐑
 
-Ilcome to the Brucellosis Prevalence Analysis repository! This analysis provides valuable insights into the prevalence of Brucellosis in different livestock species, including Bovine 🐄, Caprine 🐐, and Ovine 🐑, in various districts 🏘️. I utilize a set of poIrful data analysis tools and packages to explore the distribution of this disease, uncover variations among species and districts, and unveil correlations betIen their prevalence.
+Ilcome to the Brucellosis Prevalence Analysis repository! This analysis provides valuable insights into the prevalence of Brucellosis in different livestock species, including Bovine 🐄, Caprine 🐐, and Ovine 🐑, in various districts 🏘️. I utilize a set of  data analysis tools and packages to explore the distribution of this disease, uncover variations among species and districts, and unveil correlations  their prevalence.
 
 - [VIEW ANALYSIS HERE](https://africanobyamugisha.github.io/Brucellosis_Analysis/)
 <img src="https://github.com/africanobyamugisha/Brucellosis_Analysis/assets/86195656/c9d3d6ff-8a3f-4a87-b857-e239118b4756" width=50% height=50%>
@@ -21,7 +21,7 @@ Here's a peek into the methodology and the tools I've harnessed for this analysi
    - I start by loading and tidying the data using the `tidyverse`, `dplyr`, `readr`, and `janitor` packages to ensure it's in a pristine format for analysis.
 
 2. **Data Visualization 📊📉**:
-   - I employ the versatile `ggplot2` package to craft an array of captivating data visualizations. These visual aids help  grasp the prevalence of Brucellosis in different livestock species and districts.
+   - I employ the versatile `highcharter` package to craft an array of captivating data visualizations. These visual aids help  grasp the prevalence of Brucellosis in different livestock species and districts.
 
 3. **Statistical Wizardry 🧙‍♂️**:
    - The statistical analysis relies on the trusty `Hmisc` package. It aids  in conducting correlation tests, unveiling the intricate relationships betIen species' prevalence rates.
